@@ -17,12 +17,10 @@
     "hall",
     "booking"
   ],
-  "author": "vijay",
+  "author": "harish",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/VijayMayhul/hall-booking/issues"
-  },
-  "homepage": "https://github.com/VijayMayhul/hall-booking#readme",
+  
+  "homepage": "https://github.com/Harish-kumar-M-1998",
   "dependencies": {
     "cors": "^2.8.5",
     "date-fns": "^3.3.1",
